@@ -1,6 +1,4 @@
-# Лабораторная работа 11
-
-Simple Search Engine
+# Simple Search Engine
 
 ## Задача
 
